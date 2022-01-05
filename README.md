@@ -1,18 +1,16 @@
 # ContextTransitionPredictability
-**<font size=6>The source codes for computing context transition predictability.</font>**
 
-contextTransitionPredictability.py is the file that calculates context transition predictability based on the input file.
+## The source codes for computing context transition predictability
 
+contextTransitionPredictability.py is the file that calculates context transition predictability based on the input file.<br />
 entropyCompute.py aims to calculate the relevant entropy and predictability.
 
-The input data format is: [userid, locatonid_1@timestamp_1, ... , locatonid_n@timestamp_n].
-
+The input data format is: [userid, locatonid_1@timestamp_1, ... , locatonid_n@timestamp_n].<br />
 The output file format is: [userid, entropy or predictability].
 
-**<font size=4>For example:</font>**
+## For example:
 
-Input content:
-
+Input content:<br />
 1462,4b19f917f964a520abe623e3#Train Station@1333529414000,
 4b19f917f964a520abe623e3#Train Station@1333549777000,
 4b283516f964a520e19024e3#Train Station@1333550869000,
@@ -25,8 +23,7 @@ Input content:
 4b55c776f964a520a2ef27e3#Train Station@1333873221000,
 4b4a79ccf964a520bc8826e3#Train Station@1333873488000
 
-Context Transition Predictability output content:
-
+Context Transition Predictability output content:<br />
 1462,0.885632226078601
 
 
