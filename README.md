@@ -10,7 +10,7 @@ The output file format is: [userid, entropy or predictability].
 
 ## For example:
 
-Input content:<br />
+Input content(a partial trajectory extracted from the dataset):<br />
 1462,4b19f917f964a520abe623e3#Train Station@1333529414000,<br />
 4b19f917f964a520abe623e3#Train Station@1333549777000,<br />
 4b283516f964a520e19024e3#Train Station@1333550869000,<br />
