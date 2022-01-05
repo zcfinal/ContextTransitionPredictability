@@ -23,7 +23,7 @@ Input content(a partial trajectory extracted from the dataset):<br />
 4b55c776f964a520a2ef27e3#Train Station@1333873221000,<br />
 4b4a79ccf964a520bc8826e3#Train Station@1333873488000
 
-Context Transition Predictability output content:<br />
+Context Transition Predictability output given temporal information:<br />
 1462,0.885632226078601
 
 
