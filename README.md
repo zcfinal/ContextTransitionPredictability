@@ -1,5 +1,19 @@
 # ContextTransitionPredictability
 
+## Paper 
+
+Please cite our paper if you find our work useful for your research:
+
+```tex
+@article{zhang2022beyond,
+  title={Beyond the limits of predictability in human mobility prediction: context-transition predictability},
+  author={Zhang, Chao and Zhao, Kai and Chen, Meng},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
 ## The source codes for computing context transition predictability
 
 contextTransitionPredictability.py is the file that calculates context transition predictability based on the input file.<br />
